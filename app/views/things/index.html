@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+ 
+{% block title %}Things{% endblock %}
+ 
+{% block body %}
+ 
+    <h1>Things</h1>
+ 
+    <ul>
+        {% for thing in things %}
+            <h2>{{ thing.title }}</h2>
+            <p>{{ thing.content }}</p>
+        {% endfor %}
+    </ul>
+ 
+{% endblock %}

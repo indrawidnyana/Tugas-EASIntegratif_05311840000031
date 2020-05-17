@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+ 
+{% block title %}Tests1{% endblock %}
+ 
+{% block body %}
+ 
+    <h1>Tests1</h1>
+ 
+    <ul>
+        {% for test1 in tests1 %}
+            <h2>{{ test1.title }}</h2>
+            <p>{{ test1.content }}</p>
+        {% endfor %}
+    </ul>
+ 
+{% endblock %}

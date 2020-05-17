@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+ 
+{% block title %}Foods{% endblock %}
+ 
+{% block body %}
+ 
+    <h1>Foods</h1>
+ 
+    <ul>
+        {% for food in foods %}
+            <h2>{{ food.title }}</h2>
+            <p>{{ food.content }}</p>
+        {% endfor %}
+    </ul>
+ 
+{% endblock %}
