@@ -5,7 +5,7 @@
 ##  Dept : Teknologi Informasi
 
 ### ----------------------------------------------------------------------------------
-## Untuk lebih jelasnya, penjelasan lengkap dapat dilihat di file Dokumentasi_ETS_Pemrograman Integratif_I Gede Pradhana Indra Widnyana_05311840000031.docx
+## Untuk lebih jelasnya, penjelasan lengkap dapat dilihat di file " Dokumentasi_ETS_Pemrograman Integratif_I Gede Pradhana Indra Widnyana_05311840000031.docx "
 ### ----------------------------------------------------------------------------------
 ### ----------------------------------------------------------------------------------
 ### Dibawah ini adalah screenshot pada tampilan home (public) 
