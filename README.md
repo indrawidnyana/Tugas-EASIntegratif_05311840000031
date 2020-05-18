@@ -5,7 +5,7 @@
 ##  Dept : Teknologi Informasi
 
 ### ----------------------------------------------------------------------------------
-Untuk pengaplikasian saya menggunakan folder yang sama dengan tugas-tugas sebelumnya yakni foler hellomvc , namun saya tambahkan beberapa file sesuai dengan ketentuan yang saya buat diatas, seperti **sumbangan.php, rekap.html, jenis.php,** mengedit (modifikasi) dengan menambahkan isi dari **Base.html dan index.html,** serta dengan memodifikasi dengan menambahkan route pada **index.php** dan **home.php**
+Untuk pengaplikasian saya menggunakan folder yang sama dengan tugas-tugas sebelumnya yakni foler hellomvc , namun saya tambahkan beberapa file sesuai dengan ketentuan yang saya buat diatas **(Dokumentasi_ETS_Pemrograman Integratif_I Gede Pradhana Indra Widnyana_05311840000031.docx)** ,seperti **sumbangan.php, rekap.html, jenis.php,** mengedit (modifikasi) dengan menambahkan isi dari **Base.html dan index.html,** serta dengan memodifikasi dengan menambahkan route pada **index.php** dan **home.php**
 
 - **Home.php** yang berisi tentang form awal pada website COVID-19 saya. **(template warna dan form menggunakan bootstrap)**
 - **index.html** yang sebagian besar isinya untuk tampilan dari form dan website itu sendiri baik dari setiap row yang terdapat pada form pengisian sumbangan, dll.
