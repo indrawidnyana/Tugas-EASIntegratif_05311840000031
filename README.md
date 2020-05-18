@@ -7,7 +7,6 @@
 ### ----------------------------------------------------------------------------------
 ### Note* : Untuk folder public saat didownload, jika file .htaccess tidak dapat didownload atau error maka saya berikan backup berupa file .rar dengan nama public.rar (untuk antisipasi)
 ### ----------------------------------------------------------------------------------
-### ----------------------------------------------------------------------------------
 Untuk pengaplikasian saya menggunakan folder yang sama dengan tugas-tugas sebelumnya yakni foler hellomvc , namun saya tambahkan beberapa file sesuai dengan ketentuan yang saya buat diatas **(Dokumentasi_ETS_Pemrograman Integratif_I Gede Pradhana Indra Widnyana_05311840000031.docx)** ,seperti **sumbangan.php, rekap.html, jenis.php,** mengedit (modifikasi) dengan menambahkan isi dari **Base.html dan index.html,** serta dengan memodifikasi dengan menambahkan route pada **index.php** dan **home.php**
 
 - **Home.php** yang berisi tentang form awal pada website COVID-19 saya. **(template warna dan form menggunakan bootstrap)**
