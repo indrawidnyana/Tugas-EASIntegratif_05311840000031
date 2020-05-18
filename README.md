@@ -1,4 +1,4 @@
-# Screenshot Tugas EAS Pemrograman Integratif
+# Dokumentasi Singkat Tugas EAS Pemrograman Integratif
 
 ## Nama : I Gede Pradhana Indra Widnyana
 ## NRP    : 05311840000031
